@@ -20,7 +20,6 @@ This is my **personal portfolio website** built using **HTML**, **CSS**, and **J
 - 🛠️ Project showcase with live demo links
 - 🗂️ Resume download button
 - 📞 Contact form (submit via Google Forms or custom backend)
-- 🌙 Dark/light mode toggle *(optional)*
 
 
 ## 🚀 Getting Started
