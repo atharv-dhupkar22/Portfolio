@@ -22,9 +22,6 @@ This is my **personal portfolio website** built using **HTML**, **CSS**, and **J
 - 📞 Contact form (submit via Google Forms or custom backend)
 - 🌙 Dark/light mode toggle *(optional)*
 
-## 📸 Screenshots
-
-> Add screenshots of your portfolio homepage, project section, and contact form here.
 
 ## 🚀 Getting Started
 
